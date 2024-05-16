@@ -1,0 +1,6 @@
+# Some sample projects that could use a local copy just in case.
+https://github.com/systemling32/gitsnap
+https://gitlab.torproject.org/tpo/core/tor
+https://github.com/bitcoin/bitcoin
+https://github.com/JoinMarket-Org/joinmarket-clientserver
+https://github.com/simplex-chat/simplex-chat
